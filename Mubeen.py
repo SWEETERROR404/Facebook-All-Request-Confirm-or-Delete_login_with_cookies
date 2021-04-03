@@ -32,7 +32,7 @@ def cookies():
 '''
     with open("cookies.txt", "w") as w:
         w.write(cookies)
-
+cookies()
 # Load cookies
 cj = cookielib.MozillaCookieJar("cookies.txt")
 cj.load()
