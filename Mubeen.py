@@ -17,8 +17,8 @@ def cookies():
     c_user = input("\033[1;31;40m[\033[1;32;40m*\033[1;31;40m] Enter c_user value :- ")
     datr = input("\033[1;31;40m[\033[1;32;40m*\033[1;31;40m] Enter datr value :- ")
     fr = input("\033[1;31;40m[\033[1;32;40m*\033[1;31;40m] Enter fr value :- ")
-    sb = input("\033[1;31;40m[\033[1;32;40m*\033[1;31;40m] Enter sb :- ")
-    xs = input("\033[1;31;40m[\033[1;32;40m*\033[1;31;40m] Enter xs :- ")
+    sb = input("\033[1;31;40m[\033[1;32;40m*\033[1;31;40m] Enter sb value :- ")
+    xs = input("\033[1;31;40m[\033[1;32;40m*\033[1;31;40m] Enter xs value :- ")
 
     cookies = f'''# Netscape HTTP Cookie File
 # http://curl.haxx.se/rfc/cookie_spec.html
