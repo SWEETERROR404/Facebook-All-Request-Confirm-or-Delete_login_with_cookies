@@ -1,4 +1,6 @@
-# Command
+# chrome  extension https://chrome.google.com/webstore/detail/cookie-editor/hlkenndednhfkekhgcdicdfddnkalmdm
+# firefox extension https://addons.mozilla.org/en-US/firefox/addon/cookie-editor/
+# short video 
 
 pkg install git
 
